@@ -6,3 +6,5 @@ Mes proves _markdwon i git_.
 També proves de **GitHub**
 
 #### I ara toca pujar canvis des de diferents usuaris
+
+## Mod jfc-dev1
