@@ -8,3 +8,4 @@ També proves de **GitHub**
 #### I ara toca pujar canvis des de diferents usuaris
 
 ## Mod jfc-dev1
+#### I ara toca comprovar conflictes
